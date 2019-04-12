@@ -1,6 +1,6 @@
 # Simple-Switch-on-Arduino
 
-This program was written for Arduino after watching a video on YouTube ( https://www.youtube.com/watch?v=XxYyP1PEU7I ).
+This program was written for Arduino after watching a video on [YouTube](https://www.youtube.com/watch?v=XxYyP1PEU7I).
 
 General modifications:
 
@@ -10,6 +10,7 @@ General modifications:
 4. Completely refactored program.
 
 --
+```
 Andrey A. Ugolnik
 http://www.ugolnik.info
-
+```
